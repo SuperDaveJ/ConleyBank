@@ -1,0 +1,25 @@
+[0721/163654:INFO:(0)] WebCore is now online.
+[0721/163654:INFO:(0)] Running Awesomium 1.7.4.2
+[0721/163703:ERROR:cache_util_win.cc(48)] Unable to move the cache: 5
+[0721/163703:ERROR:backend_impl.cc(134)] Unable to move cache folder
+[0721/163703:ERROR:backend_impl.cc(264)] Unable to create cache
+[0721/164732:ERROR:cache_util_win.cc(48)] Unable to move the cache: 5
+[0721/164732:ERROR:backend_impl.cc(134)] Unable to move cache folder
+[0721/164732:ERROR:backend_impl.cc(264)] Unable to create cache
+[0724/090822:INFO:(0)] WebCore is now online.
+[0724/090822:INFO:(0)] Running Awesomium 1.7.4.2
+[0724/090830:ERROR:cache_util_win.cc(48)] Unable to move the cache: 5
+[0724/090830:ERROR:backend_impl.cc(134)] Unable to move cache folder
+[0724/090830:ERROR:backend_impl.cc(264)] Unable to create cache
+[0724/091326:ERROR:cache_util_win.cc(48)] Unable to move the cache: 5
+[0724/091326:ERROR:backend_impl.cc(134)] Unable to move cache folder
+[0724/091326:ERROR:backend_impl.cc(264)] Unable to create cache
+[0724/100306:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0724/101958:INFO:(0)] WebCore is now online.
+[0724/101958:INFO:(0)] Running Awesomium 1.7.4.2
+[0724/102006:ERROR:cache_util_win.cc(48)] Unable to move the cache: 5
+[0724/102006:ERROR:backend_impl.cc(134)] Unable to move cache folder
+[0724/102006:ERROR:backend_impl.cc(264)] Unable to create cache
+[0724/102450:ERROR:cache_util_win.cc(48)] Unable to move the cache: 5
+[0724/102450:ERROR:backend_impl.cc(134)] Unable to move cache folder
+[0724/102450:ERROR:backend_impl.cc(264)] Unable to create cache
